@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "232537932678",
+    "firebase_url": "https://servisfiskal-a3c46.firebaseio.com",
+    "project_id": "servisfiskal-a3c46",
+    "storage_bucket": "servisfiskal-a3c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232537932678:android:45cfab6d53bad379",
+        "android_client_info": {
+          "package_name": "com.example.luka.fiskalservisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232537932678-gte91prgjach6gblt2rbdff40c72a7tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSVJj1qROAjKXcXlwaz4MH9rANo3yepzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

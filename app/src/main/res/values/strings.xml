@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FiskalServisApp</string>
+
+    <string-array name="status">
+        <item>Pokidan</item>
+        <item>Popravljen</item>
+        <item>Naruđba materijala</item>
+
+
+    </string-array>
+</resources>
